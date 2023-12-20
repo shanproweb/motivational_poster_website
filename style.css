@@ -1,0 +1,30 @@
+body {
+background-color: black;
+}
+
+#motive {
+color: white;
+width: 50%;
+margin-left: 25%;
+text-align: center;
+margin-top: 100px;
+ font-family: "Libre Baskerville", serif; 
+}
+
+img {
+border: solid white 5px;
+width: 100%;
+/*margin-top: 75px; not here */
+}
+
+h1 {
+/* font-family: "Libre Baskerville", serif; not here */
+/* margin: 30px; */ 
+/*text-align: center; not here */
+font-size: 3rem;
+text-transform: uppercase;
+}
+
+/* p { not needed
+text-align: center; not here 
+} */
